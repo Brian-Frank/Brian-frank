@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Frank</h1>
-<h3 align="center">A passionate frontend developer from Argentina- La Plata</h3>
+<h3 align="center">Frontend developer from Argentina- La Plata</h3>
 
 
 - 📫 How to reach me **brianfrank93@gmail.com**
